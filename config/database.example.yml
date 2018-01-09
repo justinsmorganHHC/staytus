@@ -10,7 +10,7 @@ default: &default
   encoding: utf8
   pool: 5
   username: staytus
-  password:
+  password: Lochne11.1
   database: staytus
   host: 127.0.0.1
 
